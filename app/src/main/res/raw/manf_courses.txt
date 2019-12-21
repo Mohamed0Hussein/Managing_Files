@@ -1,0 +1,6 @@
+manf course 1
+manf course 2
+manf course 3
+manf course 4
+manf course 5
+manf course 6

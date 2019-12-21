@@ -1,0 +1,5 @@
+CSE436: Computers and Network Security
+CSE437: Mobile Computing
+CSE320: Database Systems (2)
+CSE425: Software Design Patterns
+CSE487: E-learning Systems
